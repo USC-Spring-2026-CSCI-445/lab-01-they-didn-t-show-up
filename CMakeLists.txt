@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(lab_01_they_didn_t_show_up)
+project(lab-01-they-didn-t-show-up)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
